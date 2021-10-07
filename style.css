@@ -1,0 +1,23 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+}
+
+.label{
+    background-color: #111;
+    display: flex;
+    border-radius: 50px;
+    height: 26px;
+    width: 50px;
+}
+
+.fa-moon{
+    color: #f1c40f;
+}
+
+.fa-sun{
+    color: #f39c12;
+}
